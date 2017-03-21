@@ -1,0 +1,24 @@
+{
+  "name": "packy",
+  "version": "1.0.0",
+  "description": "Packing list manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylevdr/packy.git"
+  },
+  "keywords": [
+    "packing",
+    "list",
+    "manager"
+  ],
+  "author": "Kyle VanDeRiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylevdr/packy/issues"
+  },
+  "homepage": "https://github.com/kylevdr/packy#readme"
+}
